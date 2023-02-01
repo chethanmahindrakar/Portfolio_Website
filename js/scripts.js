@@ -24,7 +24,7 @@ ul.addEventListener("mouseleave", function(){
 //Visit http://javascriptkit.com for this script
 
 //specify message to alert
-var alertmessage="This website is still in development and might not resize properly!"
+var alertmessage="This website is still in development. Updates coming soon!"
 
 ///No editing required beyond here/////
 
